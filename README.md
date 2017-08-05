@@ -127,6 +127,6 @@ To prevent Instagram shallow banning. Cycle through these hashtags with your pho
 
 #hashtag
 ------------
-[#alphacollective]
-[#sony📷]
-[#sonyalpha]
+[#alphacollective](https://www.instagram.com/explore/tags/alphacollective)
+[#sony📷](https://www.instagram.com/explore/tags/sony📷)
+[#sonyalpha](https://www.instagram.com/explore/tags/sonyalpha)
